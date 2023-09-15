@@ -8,6 +8,7 @@ A simple web-based paint application built using HTML, CSS, and JavaScript. This
 - [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Technologies Used](#technologies-used)
 - [Acknowledgments](#acknowledgments)
 
 
@@ -35,6 +36,26 @@ See Paint Clone in action [here](https://jspaintclone.netlify.app/).
 - Click and drag on the canvas to draw or edit your artwork.
 - Use the toolbar to save, load, clear, or download your artwork.
 - Experiment with different colors and brush sizes to create unique designs.
+
+## Technologies Used
+
+This Paint Clone project makes use of the following technologies:
+
+- **HTML:** The structure of the web-based paint application is built using HTML (Hypertext Markup Language).
+
+- **CSS:** Cascading Style Sheets (CSS) are used for styling and layout, ensuring a visually appealing user interface.
+
+- **JavaScript:** The functionality of the paint tools, canvas interaction, and user interactions are powered by JavaScript.
+
+- **Font Awesome:** Icons used in the toolbars are sourced from [Font Awesome](https://fontawesome.com/), providing an intuitive visual representation of the tools.
+
+- **LocalStorage:** HTML5 Local Storage is utilized for saving and loading artwork, enabling users to work on their creations across sessions.
+
+- **GitHub**: The codebase is hosted and shared on GitHub.
+
+- **Netlify:** The live demo of this Paint Clone is hosted on [Netlify](https://www.netlify.com/), providing accessibility to users for testing and exploration.
+
+These technologies work together to create a seamless and interactive painting experience within a web browser.
 
 
 ## Acknowledgments
